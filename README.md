@@ -9,10 +9,7 @@
   ![](https://img.shields.io/badge/nodejs-%23323330.svg?&style=for-the-badge&logo=nodedotjs&logoColor=%23008000)
   ![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
   ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
   ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-  ![](https://img.shields.io/badge/sql-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white)
-  ![](https://img.shields.io/badge/ruby-%23B22222.svg?&style=for-the-badge&logo=ruby&logoColor=white)
   
   #### Front-End
   ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
@@ -24,8 +21,6 @@
   ![](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2300FFFF)
   ![](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
   ![](https://img.shields.io/badge/django-%234A5E4D.svg?&style=for-the-badge&logo=django&logoColor=white)
-  ![](https://img.shields.io/badge/ruby%20on%20rails-%23B22222.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white)
-  ![](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 
   #### Mobile
   ![](https://img.shields.io/badge/react%20native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2300FFFF)
